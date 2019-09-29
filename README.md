@@ -1,5 +1,5 @@
 
-# CS 104 HW6
+# Tile Game Puzzle Solver
 - **Name**: Shin Ying (Nicole) Ng
 - **USC ID**: 6499343148
 - **Email**: shinyinn@usc.edu
