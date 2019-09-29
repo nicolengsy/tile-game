@@ -1,0 +1,16 @@
+initMoves    BFS     TilesOutOfPlace     Manhattan
+20			1342		27					27
+40			-			228					80
+60			-			-					970
+80			-			-					593
+100			-			-					10710
+150			-			-					-	
+200			-			-					-
+...
+
+
+
+TEXT FORMAT
+1) Only 20 initMoves with 1342 expansions.
+2) 20 initMoves for 27 expansions, then 40 initMoves for 228 expansions.
+3) See chart above.
